@@ -208,7 +208,17 @@ coach-bot-app.py
 requirements.txt
 README.md
 .gitignore
-```
+---
+
+## 🌐 Live Streamlit Application  
+
+The CoachBot AI application is deployed on Streamlit Cloud and can be accessed using the link below:
+
+🔗 **Live App:**  
+https://coach-bot-dwij.streamlit.app/
+
+> Note: If the app takes a few seconds to load, please wait while the server wakes up.
+
 
 ---
 
@@ -224,7 +234,7 @@ A full demonstration of the application has been recorded showing:
 - Temperature adjustment demonstration  
 
 📌 Video Link:  
-(Add your Google Drive / YouTube unlisted link here)
+https://drive.google.com/file/d/1jcmv8ANNd_3bO5M3kWKfmLwSVliBCoAQ/view?usp=sharing
 
 ---
 
