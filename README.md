@@ -10,6 +10,10 @@
 
 ---
 
+## App Link
+https://coach-bot-dwij.streamlit.app/
+
+---
 ## 📌 Project Overview  
 
 CoachBot AI is a Generative AI-powered web application designed to provide personalized fitness coaching, tactical advice, injury-aware training modifications, and nutrition guidance for youth athletes.  
